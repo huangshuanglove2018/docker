@@ -1,12 +1,12 @@
 jdk base
 A Dockerfile that installs the  openjdk1.8.0_121, centos.
 
-#Prerequisite
+
+# Prerequisite
 Get and install Docker!
 
 You should be able to run the docker command line without sudo. Otherwise you will have to make some adjustments.
-
-#Usage
+# Usage
 Bulid a new image:
 
 $ git clone https://github.com/huangshuanglove2018/docker.git
