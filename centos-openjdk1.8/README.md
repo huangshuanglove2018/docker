@@ -9,8 +9,11 @@ You should be able to run the docker command line without sudo. Otherwise you wi
 # Usage
 Bulid a new image:
 
-$ git clone https://github.com/huangshuanglove2018/docker.git
-$ cd centos-openjdk1.8
-$ sudo docker build -t centos-openjdk1.8 .
+$ git clone https://github.com/huangshuanglove2018/docker.git 
+
+$ cd centos-openjdk1.8 
+
+$ sudo docker build -t centos-openjdk1.8 . 
+
 # OR
 $ sudo docker build -t centos-openjdk1.8 https://github.com/huangshuanglove2018/docker.git
